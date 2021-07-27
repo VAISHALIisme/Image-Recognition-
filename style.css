@@ -1,0 +1,19 @@
+body{
+    background-color:lightcoral;
+    color:navy;
+    font-family:'Times New Roman', Times, serif;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+    background-color:pink;
+    font-family:'Zen Tokyo Zoo';
+}
+#camera{
+    width:350px;
+    height:300px;
+    border:2px dashed darkgrey;
+}
+#result_object_name, #result_accuracy{
+    color:maroon;
+}
